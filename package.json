@@ -1,0 +1,19 @@
+{
+  "name": "astha-siddhi",
+  "version": "1.0.0",
+  "description": "AshtaSiddhi Herbals - Ancient Ayurvedic Wisdom, Modern Wellness",
+  "scripts": {
+    "build": "echo 'Static HTML site - no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "ayurvedic",
+    "herbals",
+    "wellness"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
